@@ -5,6 +5,7 @@ An overview on how to use Ansible
 
 1. What is Ansible
 2. Ansible Components
+  - Ansible Config File
 3. Managing an Ansible Inventory
 4. Managing Ansible Variables
 5. Mastering YAML
